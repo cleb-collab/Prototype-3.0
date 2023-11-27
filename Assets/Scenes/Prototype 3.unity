@@ -262,8 +262,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 683db34bde6ea4cd4a3645b1d0126501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 8
-  gravityModifier: 1
+  jumpForce: 10
+  gravityModifier: 2
   isOnGround: 1
   gameOver: 0
 --- !u!1 &534669902
@@ -362,7 +362,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4659579814028464, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
       propertyPath: m_LocalPosition.x
